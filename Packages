@@ -3,10 +3,10 @@ Version: 1.0b1
 Architecture: iphoneos-arm
 Maintainer: 2Klasic <derobi@icloud.com>
 Filename: ./debs/com.iapeiron.savethemblobs_1.0b1_iphoneos-arm.deb
-Size: 24625100
-MD5sum: d638cfe348a0925478e5f238cdb9ed7a
-SHA1: 58a4f94b18e2214f99e20e76f4a5bbe6d9bbf46a
-SHA256: ddcfd718835892f8f261f11d0681e4b16ada16f09ecfcffc9ebb8524d719e1c8
+Size: 24625466
+MD5sum: d7bf15f0f33538b3382d91975da2d1b2
+SHA1: 00e685521017f10100b0f478234fdaaaea6eb820
+SHA256: d247064355bfe9871ba4859f1046e9fcd6ca169d913c90bd316221cb7d2b828e
 Section: Utilities
 Description: Easily save/manage SHSH blobs from Apple and Cydia, This is currently a working beta.
 Author: iAperion <aperion@hotmail.ca>
@@ -17,10 +17,10 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: @shp0ng13<shp0ng13@gmail.com>
 Filename: ./debs/com.shp0ng13.generator_1.0_iphoneos-arm.deb
-Size: 1200
-MD5sum: c766367834a22483847be90cc5df7484
-SHA1: d43c6452dd66c8843651fdff1825b1fd90a4d13f
-SHA256: 7e60d493ca5d38aaf5621e4834c286fc0c3908c6e9c2164bdc7f28ba2412ff39
+Size: 1194
+MD5sum: e41061ca94eb66201a5f5e0894fc922c
+SHA1: b0bd60e2fd07aaada2841db38a8a83a5ebb27006
+SHA256: 298b0641b2f1f8907f848303067696424c1e213c36bc6390d3c599b19e87795b
 Section: Tweaks
 Description: set generator to nvram. To start type gen in mobile terminal. For support follow me on twitter (@iTrickz)
 Author: @iTrickz <iTrickz@gmail.com>
@@ -32,10 +32,10 @@ Architecture: iphoneos-arm
 Maintainer: shp0ng13 <shp0ng13@outlook.com>
 Conflicts: livewallpapers6plus, livewallpapers
 Filename: ./debs/com.shp0ng13.i7walls_1.1_iphoneos-arm.deb
-Size: 1923570
-MD5sum: d3d38b55943f6a0e24b2843300cf5c92
-SHA1: 64a84fa4b8bc043b64de4a33d45929565f8d1e41
-SHA256: 28b491263031ccd8069f22758225c96210884f167af2874bdc30cd6dcb29e9f4
+Size: 1923544
+MD5sum: efc8b6039a3f0ceade315230ac408d98
+SHA1: 24a2cf1037f4d7deb4e8913a0ed16093aecebcd4
+SHA256: 066184f169b5572a34fee05b3957c5fe481f49dcb93986a114510de3f919abb7
 Section: System
 Description: Complete archive of "Live" wallpapers available only for the iPhone 6s/6s+ and above
 Tag: role::developer
