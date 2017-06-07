@@ -1,6 +1,6 @@
 # shpongle's public cydia repo
 
-A public cydia repo created by iosusr.
+A public cydia repo created by shpongle.
 
 ![iosusr logo](https://github.com/osxusr/repo/blob/master/Icon.png)
 
