@@ -1,8 +1,8 @@
-# shpongle's public cydia repo
+# Public Cydia Repo
 
-A public cydia repo created by shpongle.
+A public cydia repo created by 
 
-![iosusr logo](https://github.com/osxusr/osxusr.github.io/blob/master/Icon.png)
+## Issues
 
 Please use the "Issues" tab for **code related** issues only! If you need support please contact me on [twitter](https://twitter.com/shp0ng13)
 
