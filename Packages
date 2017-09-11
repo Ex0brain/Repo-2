@@ -72,11 +72,11 @@ Author: MTAC <mtactheming@gmail.com>
 Depiction: https://mtacs.github.io/description.html?id=com.mtac.verbose
 Name: Verbose Springy Theme
 
-Package: com.shp0ng13.generator
+Package: com.jst9n.generator
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: @shp0ng13<shp0ng13@gmail.com>
-Filename: ./debs/com.shp0ng13.generator_1.0_iphoneos-arm.deb
+Maintainer: jst9n <shp0ng13@gmail.com>
+Filename: ./debs/com.jst9n.generator_1.0_iphoneos-arm.deb
 Size: 1194
 MD5sum: 46a342f29e34319f3abae685f95f4150
 SHA1: b07323d7f15f7b36199056e57b99fecf232bae15
@@ -86,12 +86,12 @@ Description: set generator to nvram. To start type gen in mobile terminal. For s
 Author: @iTrickz <iTrickz@gmail.com>
 Name: generator
 
-Package: com.shp0ng13.i7walls
+Package: com.jst9n.i7walls
 Version: 1.1
 Architecture: iphoneos-arm
-Maintainer: shp0ng13 <shp0ng13@outlook.com>
+Maintainer: jst9n <jst9n@yahoo.com.com>
 Conflicts: livewallpapers6plus, livewallpapers
-Filename: ./debs/com.shp0ng13.i7walls_1.1_iphoneos-arm.deb
+Filename: ./debs/com.jst9n.i7walls_1.1_iphoneos-arm.deb
 Size: 1923544
 MD5sum: 43f91793b8acd3a77cffad8fa859108f
 SHA1: 37f37dd573edf49e844a02d92eff9f0b322f86f2
@@ -99,6 +99,6 @@ SHA256: 75e29a6d2cda2b4331f314c0fcd3434db3ebbf2a04f8ab3ca4437fd791a8be67
 Section: System
 Description: Complete archive of "Live" wallpapers available only for the iPhone 6s/6s+ and above
 Tag: role::developer
-Author: shp0ng13 <shp0ng13@outlook.com>
+Author: jst9n <jst9n@yahoo.com>
 Name: iPhone 7 wallpapers
 
